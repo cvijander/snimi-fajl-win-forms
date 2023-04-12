@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\bin\Debug\net6.0-windows\Snimi teksutalni fajl.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\bin\Debug\net6.0-windows\Snimi teksutalni fajl.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\bin\Debug\net6.0-windows\Snimi teksutalni fajl.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\bin\Debug\net6.0-windows\Snimi teksutalni fajl.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\bin\Debug\net6.0-windows\Snimi teksutalni fajl.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\Snimi teksutalni fajl.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\Snimi_teksutalni_fajl.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\Snimi teksutalni fajl.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\Snimi teksutalni fajl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\Snimi teksutalni fajl.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\Snimi teksutalni fajl.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\Snimi teksutalni fajl.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\Snimi teksutalni fajl.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\refint\Snimi teksutalni fajl.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\Snimi teksutalni fajl.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\Snimi teksutalni fajl.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Snimi teksutalni fajl\Snimi teksutalni fajl\obj\Debug\net6.0-windows\ref\Snimi teksutalni fajl.dll
